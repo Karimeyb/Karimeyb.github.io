@@ -5,9 +5,10 @@ show_date: true
 title:  Meangirls
 date:   2021-03-18 15:14:20 -0600
 description: "Chicas lindas y pesadas"
-img: posts/20210318/TicTacToeSml.jpg
+img: ![mean-girls-20-anos-fun-facts](https://github.com/user-attachments/assets/2bdaef00-440f-4e8b-833a-c8f49ef656cd)
+
 tags: [machine learning, artificial intelligence, reinforcement learning, coding, python]
-author: Armando Maynez
+author: Karime Yañez Bautista
 github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
@@ -36,7 +37,8 @@ Now, for the fun part, training the network, I followed Deep Mind's own DQN reco
 
 ## Designing the neural network
 
-<center><img src='./assets/img/posts/20210318/Neural_Network_Topology.png' width="540"></center><br>
+<center><img src='![16-datos-curiosos-que-no-sabias-de-mean-girls](https://github.com/user-attachments/assets/2fa87947-0ed4-420a-965f-548f8c6c3b9b)
+' width="540"></center><br>
 
 The Neural Network chosen takes 9 inputs (the current state of the game) and outputs 9 Q values for each of the 9 squares in the board of the game (possible actions). Obviously some squares are illegal moves, hence while training there was a negative reward given to illegal moves hoping that the model would learn not to play illegal moves in a given position.
 
