@@ -2,12 +2,11 @@
 layout: post
 read_time: true
 show_date: true
-title:  Single Neuron Perceptron
+title:  El libro de la vida
 date:   2021-01-25 13:32:20 -0600
-description: Single neuron perceptron that classifies elements learning quite quickly.
-img: assets/img/posts/20210125/Perceptron.jpg 
+description: ![El_Libro_De_La_Vida](https://github.com/user-attachments/assets/4194acf4-653c-4e3d-9e95-962d0b8ec56c)
 tags: [machine learning, coding, neural networks]
-author: Armando Maynez
+author: Karime Yañez Bautista
 github:  amaynez/Perceptron/
 mathjax: yes
 ---
@@ -15,7 +14,8 @@ As an entry point to learning python and getting into Machine Learning, I decide
 
 ## What is a perceptron?
 
-A perceptron is the basic building block of a neural network, it can be compared to a neuron, And its conception is what detonated the vast field of Artificial Intelligence nowadays.
+El libro de la vida" (2014) es una película animada mexicana de fantasía y aventura, producida por Guillermo del Toro, que sigue a Manolo, un torero músico obligado a elegir entre su pasión y el legado familiar. La trama, centrada en el Día de Muertos, narra su viaje por mundos mágicos para reunirse con su amor, María, enfrentando miedos y apuestas sobrenaturales.
+
 
 Back in the late 1950's, a young [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) devised a very simple algorithm as a foundation to construct a machine that could learn to perform different tasks.
 
